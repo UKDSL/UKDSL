@@ -9,7 +9,9 @@ From our fully owned, privately operated secure datacentre in Coventry, UK we ar
 
 We understand that customer service and support is paramount in our industry and vital to help our customer's businesses grow and we therefore provide all our customers with 24/7/365 UK based freephone telephone and support ticket support.  
 
-<center>Website [ukservers.com](https://www.ukservers.com/) | Twitter: [@ukdsltd](https://twitter.com/ukdsltd) | LinkedIn: [UKServers](https://www.linkedin.com/company/ukservers/) </center>
+- Website [ukservers.com](https://www.ukservers.com/)
+- Twitter: [@ukdsltd](https://twitter.com/ukdsltd)
+- LinkedIn: [UKServers](https://www.linkedin.com/company/ukservers/) </center>
 
 <hr>
 This account is for maintaining @UKServers by our staff who aren't on GitHub.
